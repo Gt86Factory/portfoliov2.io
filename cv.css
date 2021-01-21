@@ -1,0 +1,23 @@
+body { margin:0px; 
+	 overflow: hidden;}
+
+#experience {margin-left:150px;
+			color:white;
+			position:fixed;
+			max-width:600px;}
+
+#formation {color:white;
+			position:fixed;
+			margin-left:912px;
+			max-width:500px;}	
+
+#stuffilike {color:white;
+			position:fixed;
+			margin-left:912px;
+			max-width:500px;
+			top:50%;}
+
+h3 {color:black;}
+
+h1{color:blue;}	
+
